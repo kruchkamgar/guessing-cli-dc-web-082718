@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
 require_relative "../guessing_cli"
+require 'pry'
 
 run_guessing_game
